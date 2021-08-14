@@ -1,0 +1,5 @@
+MinPlayer: 2
+MaxPlayer: 20
+SwitchTimeMinTick: 200
+SwitchTimeMaxTick: 6000
+SwitchReduceTimeTick: 600

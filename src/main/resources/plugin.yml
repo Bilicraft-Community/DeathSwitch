@@ -1,0 +1,5 @@
+name: DeathSwitch
+version: 1.0
+main: com.bilicraft.deathswitch.DeathSwitch
+api-version: 1.17
+authors: [ BiliCraftCommunity ]
